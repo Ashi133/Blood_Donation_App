@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">138389132738-co98t8mivrhnvr77r2m179fnpj48af4i.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">138389132738</string>
+    <string name="google_api_key" translatable="false">AIzaSyDnpIlMVHBQ_WXpPBGVMEOKuNv5WHsiGmA</string>
+    <string name="google_app_id" translatable="false">1:138389132738:android:de48bd17ce583f40b2b25b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDnpIlMVHBQ_WXpPBGVMEOKuNv5WHsiGmA</string>
+    <string name="google_storage_bucket" translatable="false">blooddonationapp-2c128.appspot.com</string>
+    <string name="project_id" translatable="false">blooddonationapp-2c128</string>
+</resources>

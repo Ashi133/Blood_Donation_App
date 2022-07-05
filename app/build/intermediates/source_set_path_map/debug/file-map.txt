@@ -1,0 +1,35 @@
+com.example.blooddonationapp-google-services-0 C:\BLOOD DONATION APP\app\build\generated\res\google-services\debug
+com.example.blooddonationapp-pngs-1 C:\BLOOD DONATION APP\app\build\generated\res\pngs\debug
+com.example.blooddonationapp-resValues-2 C:\BLOOD DONATION APP\app\build\generated\res\resValues\debug
+com.example.blooddonationapp-rs-3 C:\BLOOD DONATION APP\app\build\generated\res\rs\debug
+com.example.blooddonationapp-packageDebugResources-4 C:\BLOOD DONATION APP\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.blooddonationapp-packageDebugResources-5 C:\BLOOD DONATION APP\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.blooddonationapp-merged_res-6 C:\BLOOD DONATION APP\app\build\intermediates\merged_res\debug
+com.example.blooddonationapp-debug-7 C:\BLOOD DONATION APP\app\src\debug\res
+com.example.blooddonationapp-main-8 C:\BLOOD DONATION APP\app\src\main\res
+com.example.blooddonationapp-lifecycle-runtime-2.4.0-9 C:\Users\CG-DTE\.gradle\caches\transforms-3\0402f64b1c84b1118914699e1ac0efdc\transformed\lifecycle-runtime-2.4.0\res
+com.example.blooddonationapp-fragment-1.3.6-10 C:\Users\CG-DTE\.gradle\caches\transforms-3\1e387f232df6154fcf14868b37b2e92a\transformed\fragment-1.3.6\res
+com.example.blooddonationapp-glide-4.13.2-11 C:\Users\CG-DTE\.gradle\caches\transforms-3\2714e2fa6d5381d84aa5c8d5c6eb0763\transformed\glide-4.13.2\res
+com.example.blooddonationapp-lifecycle-viewmodel-2.3.1-12 C:\Users\CG-DTE\.gradle\caches\transforms-3\27aec83044995234865c6010583a9ddf\transformed\lifecycle-viewmodel-2.3.1\res
+com.example.blooddonationapp-play-services-base-18.0.1-13 C:\Users\CG-DTE\.gradle\caches\transforms-3\40d2f0c654329f664baca5bc42d750d8\transformed\play-services-base-18.0.1\res
+com.example.blooddonationapp-coordinatorlayout-1.1.0-14 C:\Users\CG-DTE\.gradle\caches\transforms-3\5034bd090bb5bc33d0cd7026f2af73d5\transformed\coordinatorlayout-1.1.0\res
+com.example.blooddonationapp-appcompat-resources-1.4.2-15 C:\Users\CG-DTE\.gradle\caches\transforms-3\5748bec28b5fb2daa5108dea3058d9f8\transformed\appcompat-resources-1.4.2\res
+com.example.blooddonationapp-drawerlayout-1.1.1-16 C:\Users\CG-DTE\.gradle\caches\transforms-3\5872e0cf49ab1cca6d45f5d981bc5f90\transformed\drawerlayout-1.1.1\res
+com.example.blooddonationapp-play-services-basement-18.0.0-17 C:\Users\CG-DTE\.gradle\caches\transforms-3\6851860b1ddb882aee32c162c6297c16\transformed\play-services-basement-18.0.0\res
+com.example.blooddonationapp-viewpager2-1.0.0-18 C:\Users\CG-DTE\.gradle\caches\transforms-3\6e0aee5a3ef5f0370e6bdfda73c768f2\transformed\viewpager2-1.0.0\res
+com.example.blooddonationapp-browser-1.4.0-19 C:\Users\CG-DTE\.gradle\caches\transforms-3\71ad921674e36397054f6e9ee6e36788\transformed\browser-1.4.0\res
+com.example.blooddonationapp-transition-1.2.0-20 C:\Users\CG-DTE\.gradle\caches\transforms-3\8b0eca4ab5d74de21f3ed5e4d20e640a\transformed\transition-1.2.0\res
+com.example.blooddonationapp-recyclerview-1.1.0-21 C:\Users\CG-DTE\.gradle\caches\transforms-3\8c4c3b6561c1fb4fc6f7216214c41cee\transformed\recyclerview-1.1.0\res
+com.example.blooddonationapp-startup-runtime-1.0.0-22 C:\Users\CG-DTE\.gradle\caches\transforms-3\92abc668e028324be9dc71313ed24b82\transformed\startup-runtime-1.0.0\res
+com.example.blooddonationapp-cardview-1.0.0-23 C:\Users\CG-DTE\.gradle\caches\transforms-3\92c5a405f031d44e70f72e4e677efe76\transformed\cardview-1.0.0\res
+com.example.blooddonationapp-firebase-common-20.1.1-24 C:\Users\CG-DTE\.gradle\caches\transforms-3\ad657d4fcda36de49c499d183ba9bd0d\transformed\firebase-common-20.1.1\res
+com.example.blooddonationapp-circleimageview-3.1.0-25 C:\Users\CG-DTE\.gradle\caches\transforms-3\ade70ca9cf456cd36b0e6aab57223777\transformed\circleimageview-3.1.0\res
+com.example.blooddonationapp-savedstate-1.1.0-26 C:\Users\CG-DTE\.gradle\caches\transforms-3\b9aeeef99d9dff5c9451888aaae42899\transformed\savedstate-1.1.0\res
+com.example.blooddonationapp-annotation-experimental-1.1.0-27 C:\Users\CG-DTE\.gradle\caches\transforms-3\c021bc6270e9c80f77f7d2f27a488860\transformed\annotation-experimental-1.1.0\res
+com.example.blooddonationapp-emoji2-views-helper-1.0.0-28 C:\Users\CG-DTE\.gradle\caches\transforms-3\cd8206bf3d1bc6d2b2ab22133a77f9a6\transformed\emoji2-views-helper-1.0.0\res
+com.example.blooddonationapp-constraintlayout-2.1.4-29 C:\Users\CG-DTE\.gradle\caches\transforms-3\d113ed11e2342fbc138bc3f398b49927\transformed\constraintlayout-2.1.4\res
+com.example.blooddonationapp-material-1.6.1-30 C:\Users\CG-DTE\.gradle\caches\transforms-3\d8bc92a2035f199f69562cfd1474f809\transformed\material-1.6.1\res
+com.example.blooddonationapp-core-1.7.0-31 C:\Users\CG-DTE\.gradle\caches\transforms-3\de02c45ded8fea9f98a869186bd84f9e\transformed\core-1.7.0\res
+com.example.blooddonationapp-emoji2-1.0.0-32 C:\Users\CG-DTE\.gradle\caches\transforms-3\f170b31cd7236cdbcb9ddd6b8c9e24cf\transformed\emoji2-1.0.0\res
+com.example.blooddonationapp-appcompat-1.4.2-33 C:\Users\CG-DTE\.gradle\caches\transforms-3\f4ed6607ff7b9da28e633534accb8840\transformed\appcompat-1.4.2\res
+com.example.blooddonationapp-lifecycle-process-2.4.0-34 C:\Users\CG-DTE\.gradle\caches\transforms-3\fd1d55abe07a33446eba9c6d24c2fd39\transformed\lifecycle-process-2.4.0\res
