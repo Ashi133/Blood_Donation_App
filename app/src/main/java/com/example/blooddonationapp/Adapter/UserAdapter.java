@@ -41,6 +41,10 @@ private List<User> userList;
      final User user = userList.get(position);
 
         holder.type.setText(user.getType());
+
+        if (user.getType().equals("donor")){
+            holder.emailNow.setVisibility(View.VISIBLE);
+        }
         holder.userEmail.setText(user.getType());
         holder.phoneNumber.setText(user.getType());
         holder.username.setText(user.getType());
