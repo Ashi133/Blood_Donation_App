@@ -37,11 +37,11 @@ public class ProfileActivity extends AppCompatActivity {
         setContentView(R.layout.activity_profile);
 
         toolbar = findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
         getSupportActionBar().setTitle("My profile");
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setDisplayShowHomeEnabled(true);
-
+        getSupportActionBar().hide();
+        //setSupportActionBar(toolbar);
         type=findViewById(R.id.type);
         name=findViewById(R.id.name);
         phoneNumber=findViewById(R.id.phoneNumber);
