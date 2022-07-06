@@ -4,12 +4,12 @@
         "source": "C:\\Users\\CG-DTE\\.gradle\\daemon\\7.3.3\\com.example.blooddonationapp-main-8:\\drawable\\ic_visibility_off.xml"
     },
     {
-        "merged": "C:\\Users\\CG-DTE\\.gradle\\daemon\\7.3.3\\com.example.blooddonationapp-merged_res-6:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\CG-DTE\\.gradle\\daemon\\7.3.3\\com.example.blooddonationapp-main-8:\\xml\\backup_rules.xml"
-    },
-    {
         "merged": "C:\\Users\\CG-DTE\\.gradle\\daemon\\7.3.3\\com.example.blooddonationapp-merged_res-6:\\drawable_bplus.png.flat",
         "source": "C:\\Users\\CG-DTE\\.gradle\\daemon\\7.3.3\\com.example.blooddonationapp-main-8:\\drawable\\bplus.png"
+    },
+    {
+        "merged": "C:\\Users\\CG-DTE\\.gradle\\daemon\\7.3.3\\com.example.blooddonationapp-merged_res-6:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\CG-DTE\\.gradle\\daemon\\7.3.3\\com.example.blooddonationapp-main-8:\\xml\\backup_rules.xml"
     },
     {
         "merged": "C:\\Users\\CG-DTE\\.gradle\\daemon\\7.3.3\\com.example.blooddonationapp-merged_res-6:\\mipmap-anydpi-v26_ic_aplus.xml.flat",
@@ -228,6 +228,10 @@
         "source": "C:\\Users\\CG-DTE\\.gradle\\daemon\\7.3.3\\com.example.blooddonationapp-main-8:\\layout\\header.xml"
     },
     {
+        "merged": "com.example.blooddonationapp-merged_res-6:/layout_user_displayed_layout.xml.flat",
+        "source": "com.example.blooddonationapp-main-8:/layout/user_displayed_layout.xml"
+    },
+    {
         "merged": "C:\\Users\\CG-DTE\\.gradle\\daemon\\7.3.3\\com.example.blooddonationapp-merged_res-6:\\layout_activity_recipient_registration.xml.flat",
         "source": "C:\\Users\\CG-DTE\\.gradle\\daemon\\7.3.3\\com.example.blooddonationapp-main-8:\\layout\\activity_recipient_registration.xml"
     },
@@ -284,10 +288,6 @@
         "source": "C:\\Users\\CG-DTE\\.gradle\\daemon\\7.3.3\\com.example.blooddonationapp-main-8:\\drawable\\abplus.png"
     },
     {
-        "merged": "com.example.blooddonationapp-merged_res-6:/layout_activity_recipient_registration.xml.flat",
-        "source": "com.example.blooddonationapp-main-8:/layout/activity_recipient_registration.xml"
-    },
-    {
         "merged": "C:\\Users\\CG-DTE\\.gradle\\daemon\\7.3.3\\com.example.blooddonationapp-merged_res-6:\\mipmap-anydpi-v26_ic_aplus_round.xml.flat",
         "source": "C:\\Users\\CG-DTE\\.gradle\\daemon\\7.3.3\\com.example.blooddonationapp-main-8:\\mipmap-anydpi-v26\\ic_aplus_round.xml"
     },
@@ -298,6 +298,10 @@
     {
         "merged": "C:\\Users\\CG-DTE\\.gradle\\daemon\\7.3.3\\com.example.blooddonationapp-merged_res-6:\\drawable_ic_phone.xml.flat",
         "source": "C:\\Users\\CG-DTE\\.gradle\\daemon\\7.3.3\\com.example.blooddonationapp-main-8:\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\CG-DTE\\.gradle\\daemon\\7.3.3\\com.example.blooddonationapp-merged_res-6:\\layout_activity_category_selected.xml.flat",
+        "source": "C:\\Users\\CG-DTE\\.gradle\\daemon\\7.3.3\\com.example.blooddonationapp-main-8:\\layout\\activity_category_selected.xml"
     },
     {
         "merged": "C:\\Users\\CG-DTE\\.gradle\\daemon\\7.3.3\\com.example.blooddonationapp-merged_res-6:\\drawable_ominus.png.flat",

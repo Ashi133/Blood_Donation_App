@@ -7,7 +7,7 @@
     android:background="#Be5025"
     android:orientation="vertical"
     android:padding="20dp"
-    tools:context=".SelectRegistrationActivity">
+    tools:context=".Activities.SelectRegistrationActivity">
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"

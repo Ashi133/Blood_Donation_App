@@ -23,8 +23,9 @@ public class UserAdapter  extends  RecyclerView.Adapter<UserAdapter.ViewHolder>{
 private Context context;
 private List<User> userList;
 
-    public UserAdapter(List<User> userList) {
+    public UserAdapter(Context context1,List<User> userList) {
         this.userList = userList;
+        this.context=context1;
     }
 
     @NonNull
@@ -41,6 +42,8 @@ private List<User> userList;
      final User user = userList.get(position);
 
         holder.type.setText(user.getType());
+
+
 
         if (user.getType().equals("donor")){
             holder.emailNow.setVisibility(View.VISIBLE);

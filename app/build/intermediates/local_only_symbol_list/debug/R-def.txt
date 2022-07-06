@@ -95,6 +95,7 @@ id type
 id userEmail
 id userName
 id userProfileImage
+layout activity_category_selected
 layout activity_donor_registration
 layout activity_login
 layout activity_main
@@ -112,6 +113,7 @@ mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
 string default_web_client_id
+string firebase_database_url
 string gcm_defaultSenderId
 string google_api_key
 string google_app_id

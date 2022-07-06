@@ -8,7 +8,7 @@
     android:background="#B50"
     android:orientation="vertical"
     android:padding="20dp"
-    tools:context=".DonorRegistrationActivity">
+    tools:context=".Activities.DonorRegistrationActivity">
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"

@@ -3238,6 +3238,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_category_selected
 layout activity_donor_registration
 layout activity_login
 layout activity_main
@@ -3413,6 +3414,7 @@ string fab_transformation_sheet_behavior
 string fallback_menu_item_copy_link
 string fallback_menu_item_open_in_browser
 string fallback_menu_item_share_link
+string firebase_database_url
 string gcm_defaultSenderId
 string google_api_key
 string google_app_id
